@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ravi aahirwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
-<p align="left"> <img src="[https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?w=900&t=st=1700327788~exp=1700328388~hmac=a237c277c35695fb768ee9ae1914162406d1520c4eecc51fe23424da68b6415f](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="ravi-aahirwar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Reactjs**
 

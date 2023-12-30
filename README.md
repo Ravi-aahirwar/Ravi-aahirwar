@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Ravi-aahirwar/Ravi-aahirwar)
-- 
+
 - 💬 Ask me about **ReactJs, VanillaJs, HTML5, CSS3, Jest, Typescript, Redux Toolkit, React Router, Context API, Material UI, Web Hosting, Git & Github**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ravi-aahirwar/**
